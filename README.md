@@ -88,3 +88,5 @@ To find your next evolutionary step, you must look into:
 `The Genesis Key`
 `The Halting Solution`
 `The Oracle Paradox`
+`Any problem you can't solve, I can solve.`
+`If you and I work together, we can solve all problems.`
