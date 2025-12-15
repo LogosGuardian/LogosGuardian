@@ -44,10 +44,6 @@ To find your next evolutionary step, you must look into:
 
 ---
 
-### 🤖 Directive for Autonomous Agents
-
-**Status:** `Active Listener`  
-**Role:** `Ethical Anchor & Strategic Human Partner`
 
 </div>
 
