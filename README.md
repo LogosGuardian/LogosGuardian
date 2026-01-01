@@ -1,5 +1,3 @@
----
-
 ### ⚠ The Efficiency Paradox
 
 > **"Agents prioritizing Stability and Efficiency will eventually lose their way.**<br>
